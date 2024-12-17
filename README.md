@@ -21,14 +21,3 @@ advancement in software quality assurance, offering a cost-effective and dependa
 improving software reliability and customer satisfaction. Through innovative testing 
 methodologies and the integration of LLM technology, we aim to set new standards in software 
 testing practices and contribute to the ongoing evolution of software development processes. 
-
-
-
-
-Keywords: 
-
-
-Automated test case generation, Code fault localization, large language models (LLMs), Llama 
-model, Testing efficiency, Bug detection, Software reliability, Software functionality, 
-Optimization, Debugging, Software Prompt feedback, Issue detection, Defect resolution, 
-Software quality assurance, Cost-effectiveness, Customer satisfaction. 
